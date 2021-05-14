@@ -1,0 +1,5 @@
+classes = 1 
+train  = /content/drive/MyDrive/ANPR/darknet/data/train.txt
+valid  = /content/drive/MyDrive/ANPR/darknet/data/val.txt
+names = /content/drive/MyDrive/ANPR/darknet/data/obj.names
+backup = /content/drive/MyDrive/ANPR/darknet/backup
