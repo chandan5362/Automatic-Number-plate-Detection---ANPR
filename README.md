@@ -52,7 +52,7 @@ You can download the pretrained model from my drive [link](https://drive.google.
 
 ---
 
-If you like the project ans you want to use it for your own purpose, feel free to use it. In case you want to extend this project then  create a PR and then we will take care it from there. 
+If you like the project and you want to use it for your own purpose, feel free to use it. In case you want to extend this project then  create a PR. we will take care it from there. 
 
 **Couple of things to get you started.**
 
