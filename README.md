@@ -16,13 +16,13 @@ Pytesseract has been used for optical character recognition from the cropped Num
 for more details, please have a look at official github [repository](https://github.com/madmaze/pytesseract).
 
 # Gidelines
-#### To detect and crop the number plate , run the following command.
+##### To detect and crop the number plate , run the following command.
 
 ```python path/to/recognition.py -i path/to/test-image -c path/to.yolov3.cfg -w path/to/model -c path/to/obj.names```
 
 You can download the pretrained model from my drive [link](https://drive.google.com/file/d/1hdMzTUKlFX5PZLy5xCfGehBb6_MfhTLl/view?usp=sharing).
 
-#### For number recognition, run the following command
+##### For number recognition, run the following command
 
 ```python path/to/ocr.py -i path/to/cropped-image```
 
